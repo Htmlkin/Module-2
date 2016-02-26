@@ -131,7 +131,7 @@ h1{
         }
 
         .blocks{
-            border: 2px solid #CCC;
+            border: 1px solid #000;
             font-family: 'Noto Sans', sans-serif;
             line-height: 24px;
         }
